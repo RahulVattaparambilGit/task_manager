@@ -1,16 +1,17 @@
 Steps to run project :-
 
 1) clone project in folder
-   git clone https://github.com/RahulVattaparambilGit/task_manager.git
+
+git clone https://github.com/RahulVattaparambilGit/task_manager.git
    
-2) setup virtual env and activate it(using venv or any other library)
+3) setup virtual env and activate it(using venv or any other library)
 
-3) switch to task_manager folder
+4) switch to task_manager folder
 
-4) install dependencies
+5) install dependencies
    pip install -r requirements.txt
    
-5) makemigrations and migrate
+6) makemigrations and migrate
    python manage.py makemigrations
    python manage.py migrate
    
