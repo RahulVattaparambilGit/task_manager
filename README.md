@@ -18,15 +18,15 @@ Steps to run project :-
    
    python manage.py migrate
    
-7)create superuser for jwt authentication(for login)
+7) create superuser for jwt authentication(for login)
 
    python manage.py createsuperuser
 
-8)run test cases(optional)
+8) run test cases(optional)
 
    python manage.py test
 
-9)run server
+9) run server
 
    python manage.py runserver
 
