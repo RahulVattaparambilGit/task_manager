@@ -12,17 +12,17 @@ Steps to run project :-
    
    pip install -r requirements.txt
    
-7) makemigrations and migrate
+6) makemigrations and migrate
    
    python manage.py makemigrations
    
    python manage.py migrate
    
-6)create superuser for jwt authentication(for login)
+7)create superuser for jwt authentication(for login)
 
    python manage.py createsuperuser
 
-7)run test cases(optional)
+8)run test cases(optional)
 
    python manage.py test
 
