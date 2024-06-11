@@ -15,6 +15,7 @@ Steps to run project :-
 7) makemigrations and migrate
    
    python manage.py makemigrations
+   
    python manage.py migrate
    
 6)create superuser for jwt authentication(for login)
